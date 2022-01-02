@@ -1,4 +1,4 @@
-### Oiii, eu sou a Jhenifer Christ, engenheira de inovação e melhoria e desenvolvedor Full Stack!
+### Oiii!! Eu sou a Jhenifer Christ, sou engenheira de inovação/melhoria e desenvolvedor Full Stack!
 
 
  🔭 Atualmente sou En no Grupo YAMAHA BRASIL e sou Full Stack na Startup TATUBIT
