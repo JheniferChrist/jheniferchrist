@@ -1,11 +1,13 @@
 ### Oiii, eu sou a Jhenifer Christ, engenheira de inovação e melhoria e desenvolvedor Full Stack!
 
 
-- 🔭 Atualmente sou En no Grupo YAMAHA BRASIL e sou Full Stack na Startup TATUBIT
-- 🌱 Atualmente estudando ReactJS e NodeJs
-- 😄 Pronouns: Ela/dela
+ 🔭 Atualmente sou En no Grupo YAMAHA BRASIL e sou Full Stack na Startup TATUBIT
+ 
+ 🌱 Atualmente estudando ReactJS e NodeJs
+ 
+ 😄 Pronouns: Ela/dela
 
-<div>
+<div align="center">
   <a href="https://github.com/jheniferchrist">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheniferchrist&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheniferchrist&layout=compact&langs_count=7&theme=dark"/>
