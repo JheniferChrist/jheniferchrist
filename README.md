@@ -1,11 +1,11 @@
-### Oiii!! Me chamo Jhenifer Christ, sou engenheira de inovação/melhoria e desenvolvedora Front-End!
+### Me chamo Jhenifer Christ e sou apaixonada em transformar a vida das pessoas através da tecnologia! ❤😍
 
+### Ocupações:
 
- 🔭 Engenheira de inovação no Grupo YAMAHA BRASIL, desenvolvedora Front-End na Startup TATUBIT e GoodJob ;)
- 
- 🌱 Atualmente estudando VueJs ;)
- 
- 😄 Pronouns: Ela/dela
+ 🔭 Engenheira de inovação no Grupo YAMAHA BRASIL<br>
+ 🐱‍👤 Desenvolvedora Front-End na Startup TATUBIT <br>
+ 😍 Sócia e desenvolvedora Front-End na STARTUP GOOD JOB<br>
+
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Jheni-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
