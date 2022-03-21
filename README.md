@@ -3,7 +3,7 @@
 ### Ocupações:
 
  🔭 Engenheira de inovação no Grupo YAMAHA BRASIL<br>
- 🐱‍👤 Desenvolvedora Front-End na Startup TATUBIT <br>
+ 🐱‍👤 Desenvolvedora Front-End FreeLancer na Startup TATUBIT <br>
  😍 Sócia e desenvolvedora Front-End na STARTUP GOOD JOB<br>
 
  
