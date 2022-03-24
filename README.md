@@ -1,6 +1,6 @@
-### Me chamo Jhenifer Christ e sou apaixonada em transformar a vida das pessoas através da tecnologia! ❤😍
+### Apaixonada em transformar a vida das pessoas através da tecnologia! ❤😍
 
-### Ocupações:
+## Ocupações:
 
  🔭 Engenheira de inovação na YAMAHA Componentes da Amazônia<br>
  😍 Sócia e dev Front-End na GoodJob<br>
