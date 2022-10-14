@@ -3,7 +3,7 @@
 ## Ocupações:
 
  🔭 Engenheira de inovação na YAMAHA Componentes da Amazônia<br>
- 😍 Sócia e dev Front-End na GoodJob<br>
+ 😍 Dev Front-End na GoodJob<br>
  ✨ Dev Front-End na Tatubit<br>
 
  
