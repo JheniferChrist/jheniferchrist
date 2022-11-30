@@ -4,7 +4,7 @@
 
  🔭 Engenheira de inovação na YAMAHA Componentes da Amazônia<br>
  😍 Dev Front-End na GoodJob<br>
- ✨ Dev Front-End na Tatubit<br>
+ ✨ QA Game Tester no LUDUS Lab<br>
 
  
   <div style="display: inline_block"><br>
