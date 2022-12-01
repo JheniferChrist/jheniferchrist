@@ -1,7 +1,3 @@
-### Apaixonada em transformar a vida das pessoas através da tecnologia! ❤😍
-
-## Ocupações:
-
  🔭 Engenheira de inovação na YAMAHA Componentes da Amazônia<br>
  😍 Dev Front-End na GoodJob<br>
  ✨ QA Game Tester no LUDUS Lab<br>
