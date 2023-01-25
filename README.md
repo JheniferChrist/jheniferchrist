@@ -1,4 +1,4 @@
- 🔭 Engenheira de inovação na YAMAHA Componentes da Amazônia<br>
+ 🔭 Especialista Industrial (foco com smart Factory) na Yamaha Motor da Amazônia<br>
  😍 Dev Front-End na GoodJob<br>
  ✨ QA Game Tester no LUDUS Lab<br>
 
